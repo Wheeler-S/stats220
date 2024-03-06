@@ -10,6 +10,6 @@
 
 ### Want to know more about STATS 220?
 * It's a Statistics course at the University of Auckland 📖
-* It involves coding using R
+* It involves coding using R 💻
 
 Check out the [course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243) for more info!
