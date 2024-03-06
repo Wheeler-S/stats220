@@ -1,6 +1,7 @@
 # stats220
 
 **Welcome to my STATS 220 repo!**
+
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR4MXMwM2txcGswOGxxeXJzMHR5N3I1MTFud3g5M2l2OHNyaWVkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pZipqyo1sqHDfJGtz/giphy.gif)
 
 *Here, you will find:*
