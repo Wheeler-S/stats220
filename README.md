@@ -2,7 +2,7 @@
 
 **Welcome to my STATS 220 repo!**
 
-![](<iframe src="https://giphy.com/embed/3pZipqyo1sqHDfJGtz" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sesamestreet-3pZipqyo1sqHDfJGtz">via GIPHY</a></p>)
+![]("https://giphy.com/embed/3pZipqyo1sqHDfJGtz")
 
 Here, you will find:
 * examples of my work from STATS 220
