@@ -3,7 +3,8 @@
 **Welcome to my STATS 220 repo!**
 
 ![elmo waving](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR4MXMwM2txcGswOGxxeXJzMHR5N3I1MTFud3g5M2l2OHNyaWVkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pZipqyo1sqHDfJGtz/giphy.gif)
-this is what I look like
+
+(this is what I look like)
 
 *Here, you will find:*
 1. examples of my work from STATS 220
